@@ -1,19 +1,18 @@
-## <p align="center">Generateur-de-mot-de-passe</p>
-Je vous présente mon [générateur de mot de passe sécurisé et paramétrable](https://generateurmdp-laces.netlify.app/) fait avec Javascript.
+## <p align="center">Todo List vanilla Javascript</p>
+Je vous présente ma [Todo List](https://to-do-list-app-laces.netlify.app/) fait avec vanilla Javascript.
 
 ## Objectifs du projet
 
-- Renforcer mes compétences en front avec  Html, css et Javascript.
+- Faire mon propre outil pour organiser mes journées.
+- Renforcer mes compétences en front avec Html, css et Javascript.
 
 ## Fonctionnalités
 
--  Générer un mot de passe sécurisé.
--  Choisir la longueur de son mot de passe.
--  Choisir si le mot de passe contient des minuscules.
--  Choisir si le mot de passe contient des majuscules.
--  Choisir si le mot de passe contient des chiffres.
--  Choisir si le mot de passe contient des caractères spéciaux.
--  Copier le mot de passe dans le presse-papier.
+-  Ajouter un todo.
+-  Supprimer un todo.
+-  Changer l'état du todo, s'il est accompli ou pas.
+-  Un mode clair/sombre.
+-  Utilisation du LocalStorage pour sauveagrder les todos et leurs états.
 
 ## Technologies utilisées
 
